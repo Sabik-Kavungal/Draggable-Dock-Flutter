@@ -1,0 +1,1 @@
+ C:\\Users\\kavun\\StudioProjects\\frist\\.dart_tool\\flutter_build\\b44c32d13f9839bf5c07c2eb2535e184\\native_assets.yaml: 
